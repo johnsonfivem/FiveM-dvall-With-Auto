@@ -8,6 +8,9 @@ Config = {}
 Config = {
     commandName = "dvall",
     -- This is the command that you will type into chat to execute the script.
+    cancelCommandName = "cancelautodv", 
+    -- new command to cancel auto deletion
+
 
     restricCommand = true
     -- Setting this to false will allow anyone in the server to use the command. 
